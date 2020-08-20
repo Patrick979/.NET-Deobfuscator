@@ -15,18 +15,18 @@
    - [KsDumper](https://github.com/EquiFox/KsDumper) - Kernel Dumper
 
 - ### Eazfuscator
-  - [eazfixer](https://github.com/HoLLy-HaCKeR/EazFixer) - A Deobfuscator for Eazfuscator.
-  - [eazdervirtualizer](https://github.com/saneki/eazdevirt) - A Devirtualizer for Eazfuscator.
+   - [eazfixer](https://github.com/HoLLy-HaCKeR/EazFixer) - A Deobfuscator for Eazfuscator.
+   - [eazdervirtualizer](https://github.com/saneki/eazdevirt) - A Devirtualizer for Eazfuscator.
   
  - ### De4Dot
-  - [de4dot](https://github.com/0xd4d/de4dot) - Most known .NET deobfuscator and unpacker.
+   - [de4dot](https://github.com/0xd4d/de4dot) - Most known .NET deobfuscator and unpacker.
   
  - ### DNP (DotNetPatcher)
-  - [DNP](https://github.com/n017/Dotwall-deobfuscator) - DNP Deobfuscator
-  - [DNP](https://github.com/MindSystemm/DotWall-Deobfuscator) - DNP Deobfuscator
-  
+   - [DNP-Deobfuscator](https://github.com/n017/Dotwall-deobfuscator) - DNP Deobfuscator
+   - [DNP-Deobfuscator](https://github.com/MindSystemm/DotWall-Deobfuscator) - DNP Deobfuscator
+   
 - ### DotNetCompressor
-  - [DNC](https://github.com/ribthegreat99OrN0P/DotNetCompressorDecompressor) - Decompresses files.
+   - [DNC-Decompressor](https://github.com/ribthegreat99OrN0P/DotNetCompressorDecompressor) - Decompresses files.
 
 - ### DotRefiner
-  - [DR-DEOBF](https://github.com/DarkObb/DotRefiner-Deobfuscator) - DotRefiner Deobfuscator
+   - [DotRefiner-Deobfuscator](https://github.com/DarkObb/DotRefiner-Deobfuscator) - DotRefiner Deobfuscator
