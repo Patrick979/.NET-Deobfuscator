@@ -71,7 +71,7 @@
 - ### OrangeHeap
   - [OrangeHeap Deobfusactor](https://github.com/netlool/OrangeHeap-Deobfuscator) - OrangeHeap Deobfuscator.
   
-  - ### MemeVM
+- ### MemeVM
   - [MemeDevirtualizer](https://github.com/MindSystemm/MemeDevirtualizer) - Devirtualizer for MemeVM.
   - [MemeVM-Devirt](https://github.com/CursedSheep/MemeVM-Devirt) - Devirtualizer for MemeVM.
   - [MemeVMDevirt](https://github.com/congviet/MemeVMDevirt) - Devirtualizer for MemeVM.
@@ -83,7 +83,7 @@
 - ### KoiVM
   - [OldRod](https://github.com/Washi1337/OldRod) - Tool to devirtualize KoiVM.
   
-   ### Cypher
+- ### Cyphor
   - [Cyphor-Pointer-Remover](https://github.com/CursedLand/Cyphor-Pointer-Remover) - Removes Pointer Mutations
   
 - ### Unspecific Tools
