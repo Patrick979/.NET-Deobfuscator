@@ -84,7 +84,7 @@
   - [OldRod](https://github.com/Washi1337/OldRod) - Tool to devirtualize KoiVM.
   
 - ### Cyphor
-  - [Cyphor-Pointer-Remover](https://github.com/CursedLand/Cyphor-Pointer-Remover) - Removes Pointer Mutations
+  - [Cyphor-Pointer-Remover](https://github.com/Pyhoma69/Cyphor-Pointer-Remover) - Removes Pointer Mutations
   
 - ### Unspecific Tools
   - [DoubleParseFixer](https://github.com/Riziebtw/DoubleParseFixer) - Double Parse Obfuscation Fixer.
