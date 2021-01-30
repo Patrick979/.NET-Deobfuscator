@@ -86,6 +86,10 @@
 - ### Cyphor
   - [Cyphor-Pointer-Remover](https://github.com/Pyhoma69/Cyphor-Pointer-Remover) - Removes Pointer Mutations
   
+- ### Themida
+  - [Themida Unpacker .NET](https://github.com/cg10036/Themida-Unpacker-for-.NET) - deobfuscates Themida Protection
+  - [Panda Themida .NET Decompiler](https://github.com/Panda-Respiratory/Panda-Themida-.NET-Decompiler-) - Themida 'Decompiler'
+  
 - ### Unspecific Tools
   - [DoubleParseFixer](https://github.com/Riziebtw/DoubleParseFixer) - Double Parse Obfuscation Fixer.
   - [SizeOf-Replacer](https://github.com/Rhotav/SizeOf-Replacer) - SizeOf Replacer.
