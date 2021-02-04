@@ -5,7 +5,7 @@
   - [CDeobfuscator](https://github.com/maddnias/ConfuserDeobfuscator) - Deobfuscator for Confuser 1.9.0.0 release
   - [NoFuserEX](https://github.com/CodeShark-Dev/NoFuserEx) - NoFuserEx
 
-- ### Crypto Obfuscator
+- ### Crypto Obfuscater
   - [Crypto](https://github.com/Rhotav/Crypto-Deobfuscator) - A Deobfuscator for Crypto Obfuscator
   
  - ### Dumper
