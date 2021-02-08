@@ -81,7 +81,7 @@
   - [TheBear](https://github.com/GabTeix/TheBear) - Alternative Devirtualizer for NashaVM.
   
 - ### KoiVM
-  - [OldRod](https://github.com/Washi1337/OldRod) - Tool to devirtualize KoiVM.
+  - [OldRod](https://github.com/Washi1337/OldRod) - Devirtualization for KoiVM.
   
 - ### Cyphor
   - [Cyphor-Pointer-Remover](https://github.com/Pyhoma69/Cyphor-Pointer-Remover) - Removes Pointer Mutations
